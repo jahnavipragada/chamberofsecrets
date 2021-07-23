@@ -4,7 +4,9 @@ body{
 }
 .firstPage{
   background-image: url("bgi1.jpg");
-  background-repeat: repeat;
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
 }
  .heading{
    font-size: 50px;
